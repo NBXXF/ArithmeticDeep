@@ -7,4 +7,7 @@ package com.xxf.arithmetic;
  * email:xuanyouwu@163.com
  **/
 public class ArithmeticTest {
+    public static void main(String[] args) {
+
+    }
 }
